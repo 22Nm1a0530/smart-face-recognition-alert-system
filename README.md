@@ -60,7 +60,9 @@ A real-time AI-powered face recognition system that detects known and unknown in
 - Multi-camera support  
 
 ---
+⚠️ Note: The `knownfaces/` and `intruderlogs/` directories are excluded from the repository for privacy and security reasons.
 
 ## 👨‍💻 Author
 Dalai Sai Deepika
 BTech Student | AI & Full Stack Developer
+
